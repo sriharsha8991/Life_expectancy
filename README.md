@@ -1,4 +1,4 @@
-
+>> **NOTE: The main Idea of doing this project is to learn how to create an ml model using sklearn**
 >## Life Expectancy Prediction using Linear Regression and Decision Trees
 ![Life expectancy image:](https://i.ytimg.com/vi/iJYOr-uH7vk/maxresdefault.jpg)
 This project is focused on predicting life expectancy using machine learning algorithms. Specifically, linear regression and decision trees were used to predict life expectancy based on features such as country, year, status, BMI, and population. The dataset was preprocessed to handle missing values, encode categorical variables, and normalize numerical variables.
@@ -12,7 +12,7 @@ Data preprocessing is a crucial step in any machine learning project. In this pr
 >## Machine Learning Algorithms
 Two machine learning algorithms, linear regression and decision trees, were applied to the preprocessed dataset to predict life expectancy. After evaluating the performance of these algorithms, decision trees were found to achieve the highest accuracy.
 
-![Decision tree image](https://cdn.pixabay.com/photo/2017/08/09/10/07/tree-2612149_960_720.jpg)
+
 
 >## Conclusion
 This project has demonstrated the effectiveness of machine learning algorithms in predicting life expectancy based on various features such as country, year, status, BMI, and population. After preprocessing the dataset and selecting the most important features, we found that decision trees achieved the highest accuracy. The results of this project can be used to understand factors that contribute to life expectancy and can be used by health organizations to develop effective policies and programs.
