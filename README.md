@@ -1,6 +1,6 @@
 
 >## Life Expectancy Prediction using Linear Regression and Decision Trees
-![Life expectancy image:](https://cdn.pixabay.com/photo/2015/11/02/18/34/human-1016896_960_720.jpg)
+![Life expectancy image:](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiJYOr-uH7vk&psig=AOvVaw1XqT4p7StD9ojG2EGEXztU&ust=1676789664785000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODrmLW-nv0CFQAAAAAdAAAAABAJ)
 
 This project is focused on predicting life expectancy using machine learning algorithms. Specifically, linear regression and decision trees were used to predict life expectancy based on features such as country, year, status, BMI, and population. The dataset was preprocessed to handle missing values, encode categorical variables, and normalize numerical variables.
 
